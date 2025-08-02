@@ -66,6 +66,15 @@ This project was primarily developed and deployed on IBM Cloud. To understand or
 - **Expanded Knowledge Base**: Continuously integrate new medical guidelines and research data.
 - **Offline Mode**: Provide limited functionality without internet access.
 
+<img width="1920" height="878" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/7dffe4e3-6a4a-4eda-bdb6-cd10489a952e" />
+
+<img width="932" height="777" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/217475cd-88cb-4816-be6a-c4e150e8497f" />
+# Result
+<img width="1920" height="897" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/ac354d3c-2299-4328-918f-f43ae9156b40" />
+
+
+  
+
 
 
 
